@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/22ECB0F07/8xbitselectadder/8xbitselectadder.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/22ECB0F07/8xbitselectadder/8xbitselectadder.srcs/sim_1/new/8xbitselect_tb.v,1694675261,verilog,,,,carry_select_adder_sim,,,,,,,,
+D:/22ECB0F07/8xbitselectadder/8xbitselectadder.srcs/sources_1/new/8xbitselectadder.v,1694674783,verilog,,D:/22ECB0F07/8xbitselectadder/8xbitselectadder.srcs/sim_1/new/8xbitselect_tb.v,,carry_select_adder;full_adder;mux;ripple_carry_adder,,,,,,,,
