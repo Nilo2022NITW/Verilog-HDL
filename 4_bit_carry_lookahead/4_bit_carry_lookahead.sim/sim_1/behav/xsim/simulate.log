@@ -1,0 +1,3 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+$finish called at time : 200 ns : File "D:/22ECB0F07/4_bit_carry_lookahead/4_bit_carry_lookahead.srcs/sim_1/new/bitx4_carry_tb.v" Line 33

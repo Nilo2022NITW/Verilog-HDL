@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../4_bit_carry_lookahead.srcs/sources_1/new/bitx4_carry.v" \
+"../../../../4_bit_carry_lookahead.srcs/sim_1/new/bitx4_carry_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

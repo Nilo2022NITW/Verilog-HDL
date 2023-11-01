@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/4_bit_carry_lookahead/4_bit_carry_lookahead.srcs/sources_1/new/bitx4_carry.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitx4_carry
+INFO: [VRFC 10-2458] undeclared symbol c0, assumed default net type wire [D:/22ECB0F07/4_bit_carry_lookahead/4_bit_carry_lookahead.srcs/sources_1/new/bitx4_carry.v:38]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/4_bit_carry_lookahead/4_bit_carry_lookahead.srcs/sim_1/new/bitx4_carry_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitx4_carry_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/4_bit_carry_lookahead/4_bit_carry_lookahead.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
