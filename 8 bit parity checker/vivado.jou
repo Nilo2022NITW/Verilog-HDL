@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Oct 12 12:05:09 2023
+# Process ID: 4528
+# Current directory: D:/22ECB0F07/8 bit parity checker
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10064 D:\22ECB0F07\8 bit parity checker\8 bit parity checker.xpr
+# Log file: D:/22ECB0F07/8 bit parity checker/vivado.log
+# Journal file: D:/22ECB0F07/8 bit parity checker\vivado.jou
+#-----------------------------------------------------------
+start_guopopen_project {D:/22ECB0F07/8 bit parity checker/8 bit parity checker.xprupupdate_compile_order -fileset sources_1

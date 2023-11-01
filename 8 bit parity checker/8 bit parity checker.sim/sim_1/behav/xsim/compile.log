@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/8 bit parity checker/8 bit parity checker.srcs/sources_1/new/8bitparity.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jparityGenerator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/8 bit parity checker/8 bit parity checker.srcs/sim_1/new/8bitparity_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitx8parity_tb

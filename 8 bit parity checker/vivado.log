@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Oct 12 12:05:09 2023
+# Process ID: 4528
+# Current directory: D:/22ECB0F07/8 bit parity checker
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10064 D:\22ECB0F07\8 bit parity checker\8 bit parity checker.xpr
+# Log file: D:/22ECB0F07/8 bit parity checker/vivado.log
+# Journal file: D:/22ECB0F07/8 bit parity checker\vivado.jou
+#-----------------------------------------------------------
+start_guopopen_project {D:/22ECB0F07/8 bit parity checker/8 bit parity checker.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:10 . Memory (MB): peak = 749.215 ; gain = 176.895
+update_compile_order -fileset sources_exexit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct 12 12:09:05 2023...
