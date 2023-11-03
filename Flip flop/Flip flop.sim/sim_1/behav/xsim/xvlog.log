@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/Flip flop/Flip flop.srcs/sources_1/new/Flip_flop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sr_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/Flip flop/Flip flop.srcs/sim_1/new/flip_flop_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module flip_flop_tb
