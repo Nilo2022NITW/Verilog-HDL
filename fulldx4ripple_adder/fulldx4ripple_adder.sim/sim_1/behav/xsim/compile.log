@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/fulldx4ripple_adder/fulldx4ripple_adder.srcs/sources_1/new/ripplex4full_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/22ECB0F07/fulldx4ripple_adder/fulldx4ripple_adder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

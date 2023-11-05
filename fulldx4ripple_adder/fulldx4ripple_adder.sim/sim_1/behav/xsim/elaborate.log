@@ -1,0 +1,7 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 75dd17b6703e4fe7ac812e288ec15614 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Adder4bit_behav xil_defaultlib.Adder4bit xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-2063] Module <fullAdder> not found while processing module instance <FA1> [D:/22ECB0F07/fulldx4ripple_adder/fulldx4ripple_adder.srcs/sources_1/new/ripplex4full_adder.v:34]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
